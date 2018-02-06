@@ -1,4 +1,5 @@
 # CS180C Computer Graphics Final - Fall 2017
+My final demo presented at the end of the course.
 ## Features
   * Procedual sphere mesh & vertex normal generation
   * Procedual torus mesh & vertex normal generation
