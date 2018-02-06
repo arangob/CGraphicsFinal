@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/barbara/cs180c-workspace/lwjgl/lwjgl-openal.jar" sourcepath="/Users/barbara/cs180c-workspace/lwjgl/lwjgl-openal-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/barbara/cs180c-workspace/lwjgl/lwjgl-openal-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/barbara/cs180c-workspace/lwjgl/lwjgl.jar" sourcepath="/Users/barbara/cs180c-workspace/lwjgl/lwjgl-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/barbara/cs180c-workspace/lwjgl/lwjgl-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/barbara/cs180c-workspace/lwjgl/lwjgl-opengl.jar" sourcepath="/Users/barbara/cs180c-workspace/lwjgl/lwjgl-opengl-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/barbara/cs180c-workspace/lwjgl/lwjgl-opengl-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/barbara/cs180c-workspace/lwjgl/lwjgl-glfw-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/barbara/cs180c-workspace/lwjgl/lwjgl-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/barbara/cs180c-workspace/lwjgl/lwjgl-openal-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/barbara/cs180c-workspace/lwjgl/lwjgl-opengl-natives-macos.jar"/>
+	<classpathentry kind="lib" path="/Users/barbara/cs180c-workspace/lwjgl/lwjgl-glfw.jar" sourcepath="/Users/barbara/cs180c-workspace/lwjgl/lwjgl-glfw-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Users/barbara/cs180c-workspace/lwjgl/lwjgl-glfw-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/barbara/cs180c-workspace/glm-cs180c-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/barbara/cs180c-workspace/CS180C/src/stb/lwjgl-stb.jar"/>
+	<classpathentry kind="lib" path="/Users/barbara/cs180c-workspace/CS180C/src/stb/lwjgl-stb-natives-macos.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
