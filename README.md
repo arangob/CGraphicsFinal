@@ -1,5 +1,5 @@
 # CS180C Computer Graphics Final - Fall 2017
-My class final demo using OpenGL.
+My class [final demo](https://youtu.be/rb5ecjioPNQ) using OpenGL.
 ## Features
   * Procedual sphere mesh & vertex normal generation
   * Procedual torus mesh & vertex normal generation
